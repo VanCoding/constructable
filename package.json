@@ -10,7 +10,15 @@
     "test": "jest",
     "deploy": "npm test && npm run build && npm publish"
   },
-  "keywords": [],
+  "keywords": [
+    "mock",
+    "mocking",
+    "ioc",
+    "di",
+    "dependency injection",
+    "test",
+    "testing"
+  ],
   "author": "VanCoding",
   "license": "MIT",
   "devDependencies": {
