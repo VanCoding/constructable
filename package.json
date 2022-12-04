@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
+  "homepage": "https://github.com/VanCoding/constructable",
   "type": "module",
   "scripts": {
     "build": "tsc",
@@ -10,8 +11,8 @@
     "deploy": "npm test && npm run build && npm publish"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "VanCoding",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.2.3",
     "@types/node": "^18.11.10",
