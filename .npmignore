@@ -1,0 +1,6 @@
+/src
+/.envrc
+/flake.nix
+/flake.lock
+/pnpm-lock.yaml
+/tsconfig.json
