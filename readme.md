@@ -73,12 +73,12 @@ export const app = constructable({logger},({logger})=>({
     run: ()=>{
         logger.log("app started")
     }
-})
+}))
 
 // logger.ts
 export const logger = constructable({console},({console})=>({
     log: (values: ...any[])=>console.log(...values)
-})
+}))
 ```
 
 ### unit tests
